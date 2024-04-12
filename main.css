@@ -1,0 +1,320 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.div{
+    background-image: url(./img/Rectangle\ 37.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width:100%;
+    height:800px;
+}
+.div1{
+    width:85%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: auto;
+    padding-top:2%;
+}
+.div2{
+    width:85%;
+    margin: auto;
+    margin-top:15%;
+}
+.div2 h1{
+    font-style: italic;
+    color: white;
+    font-size:90px;
+}
+.div2 p{
+    font:menu;
+    color: white;
+    font-size:45px;
+}
+.div2 button{
+    background-color: transparent;
+    border: 2px solid white;
+    color: white;
+    padding: 10px 20px;
+    border-radius:4px;  
+    margin-top:2%;
+}
+.box{
+    width:85%;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    text-align: center;
+    margin-top:4%;
+    margin-bottom:2%;
+}
+.div11 h1{
+    color: gray;
+    margin-top:2%;
+    margin-bottom:5%;
+    font-size:25px;
+}
+.div11{
+    
+    font-family: sans-serif;
+}
+.btn1{
+    background-color: transparent;
+    border: none;
+    color: white;
+    font-size:20px;
+}
+.btn2{
+    background-color: transparent;
+    border: none;
+    color: white;
+    font-size:20px;
+}
+.btn3{
+    background-color: transparent;
+    border: none;
+    color: white;
+    font-size:20px;
+}
+.btn1:hover{
+    cursor: pointer;
+    color: gray;
+    font-size:25px;
+    padding:10px;
+    border-bottom: 5px solid blue;
+    transition: all;
+    transition-duration: 0.5s;
+}
+.btn2:hover{
+    cursor: pointer;
+    color: gray;
+    font-size:25px;
+    padding:10px;
+    border-bottom: 5px solid blue;
+    transition: all;
+    transition-duration: 0.5s;
+}
+.btn3:hover{
+    cursor: pointer;
+    color: gray;
+    font-size:25px;
+    padding:10px;
+    border-bottom: 5px solid blue;
+    transition-duration: 0.5s;
+}
+#btn1{
+    background-color: transparent;
+    border: none;
+    color: white;
+    font-size:20px;
+}
+#btn1:hover{
+    cursor: pointer;
+    color: rgb(0, 0, 0);
+    font-size:25px;
+    padding:10px;
+    border-bottom: 5px solid blue;
+    transition: all;
+    transition-duration: 0.5s;
+}
+#btn2:hover{
+    cursor: pointer;
+    color: rgb(0, 0, 0);
+    font-size:25px;
+    padding:10px;
+    border-bottom: 5px solid blue;
+    transition: all;
+    transition-duration: 0.5s;
+}
+#btn3:hover{
+    cursor: pointer;
+    color: rgb(0, 0, 0);
+    font-size:25px;
+    padding:10px;
+    border-bottom: 5px solid blue;
+    transition: all;
+    transition-duration: 0.5s;
+}
+#btn2{
+    background-color: transparent;
+    border: none;
+    color: white;
+    font-size:20px;
+}
+#btn3{
+    background-color: transparent;
+    border: none;
+    color: white;
+    font-size:20px;
+}
+.bit1{
+    width:100%;
+    height:120vh;
+    position: fixed;
+    position: absolute;
+    top: 0;
+    background-color: white;
+}
+.h111{
+    color: #235275;
+    padding: 100px 115px;
+    background-color: #F1F5F8;
+    margin-top: 4%;
+}
+.div3{
+    width:85%;
+    margin: auto;
+    margin-top:3%;
+}
+.input1{
+    padding: 10px 20px;
+    border: none;
+    background-color: #F1F5F8;
+    border: 1px solid #235275;
+    border-radius:5px;
+    margin-top:3%;
+    color: gray;
+    border: none;
+    margin-bottom:5%;
+}
+.div4 h3{
+    font:message-box;
+    margin-bottom:10%;
+    color: #235275;
+    margin-top:1%;
+    margin-left:3%;
+}
+.div4 h1,h2{
+    font-family: sans-serif;
+    margin-top:1%;
+    color: #235275;
+}
+.div3{
+    display: flex;
+    justify-content: space-between;
+}
+.box1{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    flex-shrink: inherit;
+    padding: 20px 60px;
+}
+.div12 h1{
+    color: #00000061;
+    margin-top:2%;
+    margin-bottom:5%;
+    font-size:16px;
+    text-align: center;
+}
+.div12{
+    width:30%;
+    height:200px;
+    font-family: sans-serif;
+    text-align: center;
+    margin-bottom:15%;
+    font-size:12px;
+    color: #235275;
+}
+.img{
+    width:310px;
+    height:200px;
+    position: relative; 
+    z-index: 2;
+}
+.divb1{
+    position: relative;
+    width:110%;
+    margin-top:-65%;
+    margin-left:3%;
+    z-index: -2;
+}
+.divb1:hover{
+    position: relative;
+    z-index:4;
+    height:50px;
+    transition-duration: 0.1s;
+    background-color: aqua;
+    display: none;
+}
+.divb1 button{
+    width:50px;
+    height:50px;
+    border-radius:50%;
+    margin-right:3%;
+}
+.div5{
+    width:100%;
+    height:100px;
+    background-color: aqua;
+}
+.hk1{
+    display: flex;
+    align-items: center;
+}
+#div55{
+    width:85%;
+    margin: auto;
+
+
+}
+#div55 div{
+    margin-right:5%;
+}
+.hp1{
+    font-size:60px;
+    font-family: sans-serif;
+}
+.div7{
+    display: flex;
+    align-items: center;
+    width:100%;
+    justify-content: space-between;
+}
+.div8{
+    display: flex;
+    width:12%;
+    justify-content: space-between;
+    align-items: center;
+}
+.IMG1{
+    width:450px;
+    height:350px;
+}
+.by{
+    font-size:40px;
+    font-style: italic;
+    font-family: sans-serif;
+    color: #23527580;
+}
+.div7 h1{
+    font-family: sans-serif;
+    margin-top:5%;
+}
+.div8 h1{
+    width:30px;
+    height:30px;
+    border-radius:10px;
+    background-color: red;
+}
+.p1{
+    font-size:20px;
+    font-family: sans-serif;
+    margin-top:5%;
+}
+.Add{
+    padding: 10px 40px;
+    margin-top:3%;
+    border-radius:3px;
+    border: none;
+    background-color: #BA5D2C;
+    color: white;
+    font-size:20px;
+}
+.div11{
+    display: flex;
+}

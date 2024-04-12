@@ -1,0 +1,76 @@
+{
+    "data":[
+        {
+            "id":1,
+            "img":"img/Rectangle 41.png",
+            "name":"High-Back Bench",
+            "sena":"$9,99"
+        },
+        {
+            "id":2,
+            "img":"img/Rectangle 41.png",
+            "name":"Albany Table",
+            "sena":"$79,99"
+        },
+        {
+            "id":3,
+            "img":"img/Rectangle 41.png",
+            "name":"Accent Chair",
+            "sena":"$25,99"
+        },
+        {
+            "id":4,
+            "img":"img/Rectangle 41.png",
+            "name":"Wooden Table",
+            "sena":"$45,99"
+        },
+        {
+            "id":5,
+            "img":"img/Rectangle 41.png",
+            "name":"Dining Table",
+            "sena":"$6,99"
+        },
+        {
+            "id":6,
+            "img":"img/Rectangle 41.png",
+            "name":"Sofa Set",
+            "sena":"$69,99"
+        },
+        {
+            "id":7,
+            "img":"img/Rectangle 41.png",
+            "name":"Modern Bookshelf",
+            "sena":"$8,99"
+        },
+        {
+            "id":8,
+            "img":"img/Rectangle 41.png",
+            "name":"Entertainment Center",
+            "sena":"$29,98"
+        },
+        {
+            "id":9,
+            "img":"img/Rectangle 41.png",
+            "name":"Entertainment Center",
+            "sena":"$29,98"
+        },
+        {
+            "id":10,
+            "img":"img/Rectangle 41.png",
+            "name":"Entertainment Center",
+            "sena":"$29,98"
+        },
+        {
+            "id":11,
+            "img":"img/Rectangle 41.png",
+            "name":"Entertainment Center",
+            "sena":"$29,98"
+        },
+        {
+            "id":12,
+            "img":"img/Rectangle 41.png",
+            "name":"Entertainment Center",
+            "sena":"$29,98"
+        }
+    ]
+}
